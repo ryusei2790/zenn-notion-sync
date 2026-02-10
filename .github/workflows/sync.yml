@@ -6,7 +6,8 @@ on:
     - cron: '0 21,3,9 * * *'
   workflow_dispatch:  # 手動実行も可能
 
-
+permissions:
+  contents: write
 
 jobs:
   sync:
