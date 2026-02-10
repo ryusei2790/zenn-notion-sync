@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const notion = new Client({ auth: process.env.NOTION_TOKEN });
-const dataSourceId = '2b75e595-c6c8-808d-abf8-000bf827a785';
+const databaseId = '2b75e595c6c8809e8e46f00e12091a00';
 
 // Notionのブロックタイプを判定してMarkdownに変換
 function blockToMarkdown(block) {
@@ -163,7 +163,7 @@ async function syncNotionToZenn() {
     
     // 「完了」ステータスで「未投稿」の記事を取得
     const response = await notion.databases.query({
-      database_id: dataSourceId,
+      database_id: databaseId,
       filter: {
         and: [
           {
