@@ -1,0 +1,41 @@
+name: Sync Notion to Zenn
+
+on:
+  schedule:
+    # 毎日 6:00, 12:00, 18:00 (JST = UTC+9) に実行
+    - cron: '0 21,3,9 * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Sync from Notion to Zenn
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: npm run sync
+      
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles/
+          if git diff --staged --quiet; then
+            echo "✨ 変更なし - 新しい記事はありません"
+          else
+            git commit -m "🚀 Sync articles from Notion [$(date +'%Y-%m-%d %H:%M:%S')]"
+            git push
+            echo "✅ 記事を同期しました"
+          fi

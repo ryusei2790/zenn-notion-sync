@@ -1,0 +1,13 @@
+{
+  "name": "zenn-notion-sync",
+  "version": "1.0.0",
+  "description": "Notion to Zenn auto sync",
+  "scripts": {
+    "sync": "node sync-notion-to-zenn.js",
+    "preview": "npx zenn preview"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "zenn-cli": "^0.1.153"
+  }
+}
