@@ -1,8 +1,8 @@
 ---
 title: "Rをはじめよう"
-emoji: "📝"
+emoji: "R"
 type: "tech"
-topics: []
+topics: ["R"]
 published: false
 ---
 
