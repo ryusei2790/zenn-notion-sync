@@ -42,7 +42,7 @@ Hoomebrewはパッケージマネージャーでmacではインストールし�
 
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/e3f209a2-54a4-4fce-a559-aab51c5b0c6d/CleanShot_2026-02-14_at_14.30.212x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RZRKJPR2%2F20260214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260214T092444Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDkaCXVzLXdlc3QtMiJIMEYCIQDh8ELRErs%2BnVayhtWhwzhHT6iT10IJZI8%2Ftrr8WLeUNgIhAOUjNLJQv2xytIvEemy%2FirJ%2FzOzPV14ip2ZReIO2WhZ3Kv8DCAIQABoMNjM3NDIzMTgzODA1IgxLleixjyQ2yELr2bcq3APT51Bem2RvAE%2F1JEIdVHqsZNsVzsdSYxTzJG%2FAp09bxGa2xecGlJwdFCz2oIDjfpiGU9RZ7h7ncAdLYBgtyjXoIL0hr0L2F6kLoSr7yX3%2F%2FtG8AinU7LvQLjsgQJutxBwpKzBPotl0g4n5XSiVbrw6ZuhTM3%2F6gW%2FyI0qMhDUDnqQ8BFiIsTQab0hlhhDkC9dUWdv%2F6qPH9a8AOVAVSUzWrqO5GdulxO6R0IPoS9Gkb3T%2FieFbcZMR7Z98zdkTjKmEi6dXMoWoO%2BJIvUKjL1IdqyjpmXP9DqU7ZKdCGwZSl8Fk82uFPQy4%2BChOkPo0NrVrQgGvbk6TTsqGmDjHTZiO1%2BskwE%2FHwUAsKMR1nksYfJn74ElE0ResT%2BumFacgChQgjNR7EtIx3UbCFoe3VNgvooFe6xlrI85iu5J0tr6VL2Pzrst3YFTNiMMdKC2cyEafj6uLwNond8sFo4GZvh3va3wOAYN2h5NVzN2GQzUFk5A7d0sGIexq0klMricpzkdZqruBN1NMwqaQ2JUpQxDL4VEPb8L3xFZn9SIWh%2BnGNDyxlyNXBiJFRjRXqznfPjxJP3fyqyvdF8cMb2mchxkJ87CdDgA1oCFsZ7Nlg6uOojAaztBq1DEg5PKgXDDI5MDMBjqkAe8ujgdCVRRt4WRBAZhGR4A2rHkw8BKGh%2Brw4DSqX7%2FlI1k4mJHeqfbiYv4ad4uUV%2FW1Uyhc0U6m8ZUgM1OLFgbG9Xn5xn%2BxAytK4FhLc0Nsrxdl9WAdtL4mKVp9xfZIOYlS5FeizArQkUqHb5JT%2BGsG0kv6oEgQz1WYyXbBowxujzJsJEhTeG7B%2BxMOn39qOH87BqWpIkKciK6ahrTHtHegxZAy&X-Amz-Signature=19ba43ce2ef5eb947458c77af68f9f91cf0325bbd0d16c2e8d90d904ff30df1a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/e3f209a2-54a4-4fce-a559-aab51c5b0c6d/CleanShot_2026-02-14_at_14.30.212x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TOLUUALZ%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260217T212953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDyhhRjvyTau8T%2B0h2gEeFnmgqWO%2BbQ8u3cH0fHpqjv9AIhAJErdXIJXHFgtVRUFhw6%2BH1XvjEX%2FPXva62ynCXHxhV1Kv8DCFYQABoMNjM3NDIzMTgzODA1Igy1dw0lcoEWC6%2BJ5IIq3AOkDKWZeYjt2XJJ41jDo77kH30kE74m7gcBliMm1DFt9u0Ql8CLzN2sMOy6c7zP45wKrI1ourLcwl%2Fk8cbDLgFIa%2BYikC38fjNemcNyUNI%2FwIhvySWt7xuYU%2BW6mmYojwG29bm41UwrfiIAztDW7Qp3hzLLd8qCaPyYBz1V%2Fp6RYi5QORe5VvsLSiOgh3Ev%2FSNkx3%2BYjcpR2JE7TCeFb%2B1UFxVgdI6BoTNITI3TCH5O5z8IQhqWSUoTNtrAMEPoOgpeRwqvcfE9SdGhbZNR8%2BzGlqpT%2B5xK9vrW1YOBCNv7SRVRt7GnjwjRUKOhzYBro1dFDw%2FMGeZemJoKGGzIdTYvgoGdnXn5wjcLJ2paFZgnUFi6j%2F90olyfTYxzn7f6bntjFhzyyjgf%2BlLKb9CRuyD6GDfqXuEMbAxvXnLdWlIdOl3vgT4aSJ3XfmzRNlvLtuIh0ZBkVpUyA3hPRLt4GalmmK4cfN7UvWqAVd83rkPt%2B4%2Fd%2Fk3Ae5giEwY80mRGi5HdaPKFD12efV3PxkJIh3hfYlo9r5xZQlJ7%2FH7vwoTdUZWSk6VnpZzN2OvPOdCFN0z8%2BffosB%2By1VRGIt%2Biio0Oj2WY8ESD%2BF8OVMu3tMkezQwQQnWhq87l48ldsTCqpNPMBjqkAb00iPMnGHh1mm4EJl43PGViSAsJOKGl2qc2H559Zc%2BETmMGzhSTlwPhqAERqPXqtX1QUftKa7iMaoKPYeKqek9Ya3lQp4vSYwNdry0akPmRKt6YVdcrih89w5ar6XG9IKd5LfDtyhQyN3B1OMvOcDbKtedKbMqRbuGLuSEQFRcnJ6caw%2Bp%2F8gAdWL3HdBL3ZmUKNfSyFWUWG2B%2BREUsWGCwN46r&X-Amz-Signature=c66c12cda156987633234e3f66163ab7e9d5059e53ad3173c93d7f3cd0ee7fff&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ## RStudioの起動方法
 
@@ -56,6 +56,8 @@ Hoomebrewはパッケージマネージャーでmacではインストールし�
 open -a RStudio
 ```
 
+
+
 **方法2: アプリケーションフォルダから起動**
 
 Finder > アプリケーション > RStudio をダブルクリック
@@ -66,15 +68,19 @@ RStudioを開くと、画面が4つに分かれていることに気づくでし
 
 ## 1. Source（ソース） - 左上 
 
-左上のプラスボタンを押すとR Scriptが出せるようになります。
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/9cb0a3e2-463e-41d3-9d3b-f05ec8e93b57/first.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TOLUUALZ%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260217T212953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDyhhRjvyTau8T%2B0h2gEeFnmgqWO%2BbQ8u3cH0fHpqjv9AIhAJErdXIJXHFgtVRUFhw6%2BH1XvjEX%2FPXva62ynCXHxhV1Kv8DCFYQABoMNjM3NDIzMTgzODA1Igy1dw0lcoEWC6%2BJ5IIq3AOkDKWZeYjt2XJJ41jDo77kH30kE74m7gcBliMm1DFt9u0Ql8CLzN2sMOy6c7zP45wKrI1ourLcwl%2Fk8cbDLgFIa%2BYikC38fjNemcNyUNI%2FwIhvySWt7xuYU%2BW6mmYojwG29bm41UwrfiIAztDW7Qp3hzLLd8qCaPyYBz1V%2Fp6RYi5QORe5VvsLSiOgh3Ev%2FSNkx3%2BYjcpR2JE7TCeFb%2B1UFxVgdI6BoTNITI3TCH5O5z8IQhqWSUoTNtrAMEPoOgpeRwqvcfE9SdGhbZNR8%2BzGlqpT%2B5xK9vrW1YOBCNv7SRVRt7GnjwjRUKOhzYBro1dFDw%2FMGeZemJoKGGzIdTYvgoGdnXn5wjcLJ2paFZgnUFi6j%2F90olyfTYxzn7f6bntjFhzyyjgf%2BlLKb9CRuyD6GDfqXuEMbAxvXnLdWlIdOl3vgT4aSJ3XfmzRNlvLtuIh0ZBkVpUyA3hPRLt4GalmmK4cfN7UvWqAVd83rkPt%2B4%2Fd%2Fk3Ae5giEwY80mRGi5HdaPKFD12efV3PxkJIh3hfYlo9r5xZQlJ7%2FH7vwoTdUZWSk6VnpZzN2OvPOdCFN0z8%2BffosB%2By1VRGIt%2Biio0Oj2WY8ESD%2BF8OVMu3tMkezQwQQnWhq87l48ldsTCqpNPMBjqkAb00iPMnGHh1mm4EJl43PGViSAsJOKGl2qc2H559Zc%2BETmMGzhSTlwPhqAERqPXqtX1QUftKa7iMaoKPYeKqek9Ya3lQp4vSYwNdry0akPmRKt6YVdcrih89w5ar6XG9IKd5LfDtyhQyN3B1OMvOcDbKtedKbMqRbuGLuSEQFRcnJ6caw%2Bp%2F8gAdWL3HdBL3ZmUKNfSyFWUWG2B%2BREUsWGCwN46r&X-Amz-Signature=2c210f367666f9a823f4e2751967d54f6afc3887918750bea44bb475a0ed4013&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/043ddf6d-a571-46a1-b62d-035f6618c5e9/CleanShot_2026-02-14_at_14.31.352x.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RZRKJPR2%2F20260214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260214T092444Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDkaCXVzLXdlc3QtMiJIMEYCIQDh8ELRErs%2BnVayhtWhwzhHT6iT10IJZI8%2Ftrr8WLeUNgIhAOUjNLJQv2xytIvEemy%2FirJ%2FzOzPV14ip2ZReIO2WhZ3Kv8DCAIQABoMNjM3NDIzMTgzODA1IgxLleixjyQ2yELr2bcq3APT51Bem2RvAE%2F1JEIdVHqsZNsVzsdSYxTzJG%2FAp09bxGa2xecGlJwdFCz2oIDjfpiGU9RZ7h7ncAdLYBgtyjXoIL0hr0L2F6kLoSr7yX3%2F%2FtG8AinU7LvQLjsgQJutxBwpKzBPotl0g4n5XSiVbrw6ZuhTM3%2F6gW%2FyI0qMhDUDnqQ8BFiIsTQab0hlhhDkC9dUWdv%2F6qPH9a8AOVAVSUzWrqO5GdulxO6R0IPoS9Gkb3T%2FieFbcZMR7Z98zdkTjKmEi6dXMoWoO%2BJIvUKjL1IdqyjpmXP9DqU7ZKdCGwZSl8Fk82uFPQy4%2BChOkPo0NrVrQgGvbk6TTsqGmDjHTZiO1%2BskwE%2FHwUAsKMR1nksYfJn74ElE0ResT%2BumFacgChQgjNR7EtIx3UbCFoe3VNgvooFe6xlrI85iu5J0tr6VL2Pzrst3YFTNiMMdKC2cyEafj6uLwNond8sFo4GZvh3va3wOAYN2h5NVzN2GQzUFk5A7d0sGIexq0klMricpzkdZqruBN1NMwqaQ2JUpQxDL4VEPb8L3xFZn9SIWh%2BnGNDyxlyNXBiJFRjRXqznfPjxJP3fyqyvdF8cMb2mchxkJ87CdDgA1oCFsZ7Nlg6uOojAaztBq1DEg5PKgXDDI5MDMBjqkAe8ujgdCVRRt4WRBAZhGR4A2rHkw8BKGh%2Brw4DSqX7%2FlI1k4mJHeqfbiYv4ad4uUV%2FW1Uyhc0U6m8ZUgM1OLFgbG9Xn5xn%2BxAytK4FhLc0Nsrxdl9WAdtL4mKVp9xfZIOYlS5FeizArQkUqHb5JT%2BGsG0kv6oEgQz1WYyXbBowxujzJsJEhTeG7B%2BxMOn39qOH87BqWpIkKciK6ahrTHtHegxZAy&X-Amz-Signature=e7e9c11742578f8811a010351333f2e09ae0a88d67351472fca14a1443e43740&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+左上のプラスボタンを押すとR Scriptが出せるようになります・
 
 スクリプトファイルを編集するエディタです。ここでRコードを書いて保存できます。プログラムを書く際のメインの作業スペースです。
 
 ここで書いたコードはファイルとして保存されるので、実行したら毎回履歴を見て同じコードを実行する必要がなくなります。
 
+
+
 ## 2. Console（コンソール） - 左下
+
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/470268b8-159d-4fb4-a43c-7f801ee70570/second.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TOLUUALZ%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260217T212953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDyhhRjvyTau8T%2B0h2gEeFnmgqWO%2BbQ8u3cH0fHpqjv9AIhAJErdXIJXHFgtVRUFhw6%2BH1XvjEX%2FPXva62ynCXHxhV1Kv8DCFYQABoMNjM3NDIzMTgzODA1Igy1dw0lcoEWC6%2BJ5IIq3AOkDKWZeYjt2XJJ41jDo77kH30kE74m7gcBliMm1DFt9u0Ql8CLzN2sMOy6c7zP45wKrI1ourLcwl%2Fk8cbDLgFIa%2BYikC38fjNemcNyUNI%2FwIhvySWt7xuYU%2BW6mmYojwG29bm41UwrfiIAztDW7Qp3hzLLd8qCaPyYBz1V%2Fp6RYi5QORe5VvsLSiOgh3Ev%2FSNkx3%2BYjcpR2JE7TCeFb%2B1UFxVgdI6BoTNITI3TCH5O5z8IQhqWSUoTNtrAMEPoOgpeRwqvcfE9SdGhbZNR8%2BzGlqpT%2B5xK9vrW1YOBCNv7SRVRt7GnjwjRUKOhzYBro1dFDw%2FMGeZemJoKGGzIdTYvgoGdnXn5wjcLJ2paFZgnUFi6j%2F90olyfTYxzn7f6bntjFhzyyjgf%2BlLKb9CRuyD6GDfqXuEMbAxvXnLdWlIdOl3vgT4aSJ3XfmzRNlvLtuIh0ZBkVpUyA3hPRLt4GalmmK4cfN7UvWqAVd83rkPt%2B4%2Fd%2Fk3Ae5giEwY80mRGi5HdaPKFD12efV3PxkJIh3hfYlo9r5xZQlJ7%2FH7vwoTdUZWSk6VnpZzN2OvPOdCFN0z8%2BffosB%2By1VRGIt%2Biio0Oj2WY8ESD%2BF8OVMu3tMkezQwQQnWhq87l48ldsTCqpNPMBjqkAb00iPMnGHh1mm4EJl43PGViSAsJOKGl2qc2H559Zc%2BETmMGzhSTlwPhqAERqPXqtX1QUftKa7iMaoKPYeKqek9Ya3lQp4vSYwNdry0akPmRKt6YVdcrih89w5ar6XG9IKd5LfDtyhQyN3B1OMvOcDbKtedKbMqRbuGLuSEQFRcnJ6caw%2Bp%2F8gAdWL3HdBL3ZmUKNfSyFWUWG2B%2BREUsWGCwN46r&X-Amz-Signature=76b01caaad7948b9f102e2de8664c92cf242e3dd2a0e2d4583890e55d3f0187d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 Rコマンドを直接実行できる対話型の環境です。簡単な計算や、コードの動作確認に使います。
 
@@ -82,13 +88,27 @@ Rコマンドを直接実行できる対話型の環境です。簡単な計算�
 
 ## 3. Environment/History（環境/履歴） - 右上
 
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/45691a3f-45a2-461b-8bcf-eedbc560c234/third.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TOLUUALZ%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260217T212953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDyhhRjvyTau8T%2B0h2gEeFnmgqWO%2BbQ8u3cH0fHpqjv9AIhAJErdXIJXHFgtVRUFhw6%2BH1XvjEX%2FPXva62ynCXHxhV1Kv8DCFYQABoMNjM3NDIzMTgzODA1Igy1dw0lcoEWC6%2BJ5IIq3AOkDKWZeYjt2XJJ41jDo77kH30kE74m7gcBliMm1DFt9u0Ql8CLzN2sMOy6c7zP45wKrI1ourLcwl%2Fk8cbDLgFIa%2BYikC38fjNemcNyUNI%2FwIhvySWt7xuYU%2BW6mmYojwG29bm41UwrfiIAztDW7Qp3hzLLd8qCaPyYBz1V%2Fp6RYi5QORe5VvsLSiOgh3Ev%2FSNkx3%2BYjcpR2JE7TCeFb%2B1UFxVgdI6BoTNITI3TCH5O5z8IQhqWSUoTNtrAMEPoOgpeRwqvcfE9SdGhbZNR8%2BzGlqpT%2B5xK9vrW1YOBCNv7SRVRt7GnjwjRUKOhzYBro1dFDw%2FMGeZemJoKGGzIdTYvgoGdnXn5wjcLJ2paFZgnUFi6j%2F90olyfTYxzn7f6bntjFhzyyjgf%2BlLKb9CRuyD6GDfqXuEMbAxvXnLdWlIdOl3vgT4aSJ3XfmzRNlvLtuIh0ZBkVpUyA3hPRLt4GalmmK4cfN7UvWqAVd83rkPt%2B4%2Fd%2Fk3Ae5giEwY80mRGi5HdaPKFD12efV3PxkJIh3hfYlo9r5xZQlJ7%2FH7vwoTdUZWSk6VnpZzN2OvPOdCFN0z8%2BffosB%2By1VRGIt%2Biio0Oj2WY8ESD%2BF8OVMu3tMkezQwQQnWhq87l48ldsTCqpNPMBjqkAb00iPMnGHh1mm4EJl43PGViSAsJOKGl2qc2H559Zc%2BETmMGzhSTlwPhqAERqPXqtX1QUftKa7iMaoKPYeKqek9Ya3lQp4vSYwNdry0akPmRKt6YVdcrih89w5ar6XG9IKd5LfDtyhQyN3B1OMvOcDbKtedKbMqRbuGLuSEQFRcnJ6caw%2Bp%2F8gAdWL3HdBL3ZmUKNfSyFWUWG2B%2BREUsWGCwN46r&X-Amz-Signature=375d98b5996df6c2bc6cada999908afcd5b54b0604388996201d2ba6271a5989&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
 現在読み込まれている変数やデータを確認できます。どんなデータが使えるか、一目で確認できて便利です。
 
 ## 4. Files/Plots/Packages/Help（ファイル/プロット/パッケージ/ヘルプ） - 右下
 
+![](https://prod-files-secure.s3.us-west-2.amazonaws.com/82eee7c2-babd-4ec3-ad7c-a809c691efb9/df9f7e3e-bd25-4162-952e-f74872c26f6d/forth.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466TOLUUALZ%2F20260217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260217T212953Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDyhhRjvyTau8T%2B0h2gEeFnmgqWO%2BbQ8u3cH0fHpqjv9AIhAJErdXIJXHFgtVRUFhw6%2BH1XvjEX%2FPXva62ynCXHxhV1Kv8DCFYQABoMNjM3NDIzMTgzODA1Igy1dw0lcoEWC6%2BJ5IIq3AOkDKWZeYjt2XJJ41jDo77kH30kE74m7gcBliMm1DFt9u0Ql8CLzN2sMOy6c7zP45wKrI1ourLcwl%2Fk8cbDLgFIa%2BYikC38fjNemcNyUNI%2FwIhvySWt7xuYU%2BW6mmYojwG29bm41UwrfiIAztDW7Qp3hzLLd8qCaPyYBz1V%2Fp6RYi5QORe5VvsLSiOgh3Ev%2FSNkx3%2BYjcpR2JE7TCeFb%2B1UFxVgdI6BoTNITI3TCH5O5z8IQhqWSUoTNtrAMEPoOgpeRwqvcfE9SdGhbZNR8%2BzGlqpT%2B5xK9vrW1YOBCNv7SRVRt7GnjwjRUKOhzYBro1dFDw%2FMGeZemJoKGGzIdTYvgoGdnXn5wjcLJ2paFZgnUFi6j%2F90olyfTYxzn7f6bntjFhzyyjgf%2BlLKb9CRuyD6GDfqXuEMbAxvXnLdWlIdOl3vgT4aSJ3XfmzRNlvLtuIh0ZBkVpUyA3hPRLt4GalmmK4cfN7UvWqAVd83rkPt%2B4%2Fd%2Fk3Ae5giEwY80mRGi5HdaPKFD12efV3PxkJIh3hfYlo9r5xZQlJ7%2FH7vwoTdUZWSk6VnpZzN2OvPOdCFN0z8%2BffosB%2By1VRGIt%2Biio0Oj2WY8ESD%2BF8OVMu3tMkezQwQQnWhq87l48ldsTCqpNPMBjqkAb00iPMnGHh1mm4EJl43PGViSAsJOKGl2qc2H559Zc%2BETmMGzhSTlwPhqAERqPXqtX1QUftKa7iMaoKPYeKqek9Ya3lQp4vSYwNdry0akPmRKt6YVdcrih89w5ar6XG9IKd5LfDtyhQyN3B1OMvOcDbKtedKbMqRbuGLuSEQFRcnJ6caw%2Bp%2F8gAdWL3HdBL3ZmUKNfSyFWUWG2B%2BREUsWGCwN46r&X-Amz-Signature=0e6781587d0d76f12bb3c6f4f68c18fb237580706aee31e8e72cea69eaa82f4e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
 ファイル管理、グラフの表示、パッケージの管理、ヘルプドキュメントの表示など、多機能なペインです。
 
+
+
+
+
 # 実際に使ってみよう
+
+基本的に分析には左側のところだけをみておけば問題ないです。
+
+(ソースとコンソールセクション)
+
+
 
 ## スクリプトファイルの作成
 
@@ -99,6 +119,8 @@ Rコマンドを直接実行できる対話型の環境です。簡単な計算�
 
 
 コンソールでRのコードを書いて直接書く方法とスクリプトファイルにlog(履歴)を保存しながら分析する方法があります。
+
+※logっていうのは動かしたコマンドの履歴だと思ってください。
 
 ```r
 # メニューから: File > New File > R Script
