@@ -2,7 +2,7 @@
 title: "【完全版】NotionからZennへの自動投稿システム構築手順書"
 emoji: "📚"
 type: "tech"
-topics: []
+topics: ["AI", "ローカル開発"]
 published: true
 ---
 
